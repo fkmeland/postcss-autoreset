@@ -1,6 +1,6 @@
 {
   "name": "postcss-autoreset",
-  "version": "3.0.4",
+  "version": "3.1.0",
   "description": "PostCSS plugin for partial styles reset",
   "main": "index.js",
   "scripts": {
@@ -34,21 +34,21 @@
   },
   "homepage": "https://github.com/maximkoretskiy/postcss-reset",
   "dependencies": {
-    "postcss-js": "^3.0.1"
+    "postcss-js": "^4.0.0"
   },
   "devDependencies": {
-    "clean-publish": "^1.1.8",
-    "eslint": "^7.10.0",
-    "eslint-plugin-mocha": "^8.0.0",
+    "clean-publish": "^4.0.2",
+    "eslint": "^8.29.0",
+    "eslint-plugin-mocha": "^10.1.0",
     "husky": "^4.3.0",
-    "mocha": "^8.1.3",
-    "postcss": "^8.1.1"
+    "mocha": "^10.2.0",
+    "postcss": "^8.4.20"
   },
   "peerDependency": {
     "postcss": "^8.1.1"
   },
   "optionalPeerDependencies": {
-    "postcss-js": "^3.0.1"
+    "postcss-js": "4.0.0"
   },
   "eslintConfig": {
     "parserOptions": {
